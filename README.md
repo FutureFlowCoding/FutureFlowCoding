@@ -1,4 +1,14 @@
-Hi 👋 My name is Anton Otto ===========================  Full stack developer | Helping people with better tools -------------------------------------------------------  Turning adversity into strength is the greatest code I've cracked. As a single dad of twin daughters and a full-stack developer, I know the power of resilience. With my software, I empower you to change your life just like I did mine. Harness the power of the maker's economy - if I can do it, so can you.  * 🌍  I'm based in The Netherlands, but available Remotely from EVERYWHERE. * ✉️  You can contact me at [anton@brewrmarketing.nl](mailto:anton@brewrmarketing.nl) * 🧠  I'm learning NextJS * 🤝  I'm open to collaborating on Micro Saas ideas * ⚡  PSSTTT...... I wear 2 different socks most of the day.
+Hi 👋 My name is Anton Otto 
+===========================  
+Full stack developer | Helping people with better tools 
+-------------------------------------------------------  
+
+Turning adversity into strength is the greatest code I've cracked. As a single dad of twin daughters and a full-stack developer, I know the power of resilience. With my software, I empower you to change your life just like I did mine. Harness the power of the maker's economy - if I can do it, so can you.  
+* 🌍  I'm based in The Netherlands, but available Remotely from EVERYWHERE. 
+* ✉️  You can contact me at [anton@brewrmarketing.nl](mailto:anton@brewrmarketing.nl)
+* 🧠  I'm learning NextJS 
+* 🤝  I'm open to collaborating on Micro Saas ideas 
+* ⚡  PSSTTT...... I wear 2 different socks most of the day.
 
 <a href="https://www.twitter.com/AntonOtto_FFC" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/AntonOtto_FFC?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
